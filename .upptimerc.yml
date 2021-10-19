@@ -13,7 +13,7 @@ sites:
   - name: utalk4schools
     url: https://utalk.ucloud4schools.de/b/ldap_signin
   - name: Identity Provider
-    url: https://idp.ucloud4schools.de
+    url: https://idp.ucloud4schools.de/idp/shibboleth
  
 
 status-website:
