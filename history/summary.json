@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/utalk.ucloud4schools.de",
     "slug": "utalk4schools",
     "status": "down",
-    "uptime": "0.61%",
-    "uptimeDay": "0.61%",
-    "uptimeWeek": "0.61%",
-    "uptimeMonth": "0.61%",
-    "uptimeYear": "0.61%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-19": 2
+      "2021-10-19": 34
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://idp.ucloud4schools.de",
     "icon": "https://favicons.githubusercontent.com/idp.ucloud4schools.de",
     "slug": "identity-provider",
-    "status": "down",
-    "uptime": "92.85%",
-    "uptimeDay": "92.85%",
-    "uptimeWeek": "92.85%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "92.85%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.69%",
+    "uptimeDay": "4.69%",
+    "uptimeWeek": "4.69%",
+    "uptimeMonth": "4.69%",
+    "uptimeYear": "4.69%",
+    "time": 833,
+    "timeDay": 833,
+    "timeWeek": 833,
+    "timeMonth": 833,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2021-10-19": 0
+      "2021-10-19": 32
     }
   }
 ]
