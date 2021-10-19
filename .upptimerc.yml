@@ -12,7 +12,7 @@ sites:
     url: https://lms4schools.de/acslg/
   - name: utalk4schools
     url: https://utalk.ucloud4schools.de/b/ldap_signin
-   - name: Identity Provider
+  - name: Identity Provider
     url: https://idp.ucloud4schools.de
  
 
