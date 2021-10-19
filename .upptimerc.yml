@@ -11,7 +11,7 @@ sites:
   - name: Moodle4schools
     url: https://lms4schools.de/acslg/
   - name: utalk4schools
-    url: https://utalk.ucloud4schools.de
+    url: https://utalk.ucloud4schools.de/b/ldap_signin
  
 
 status-website:
