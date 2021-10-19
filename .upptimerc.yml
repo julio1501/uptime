@@ -10,8 +10,8 @@ sites:
     url: https://webmail.ucloud4schools.de
   - name: Moodle4schools
     url: https://lms4schools.de/acslg/
-  - name: utalk4schools
-    url: https://utalk.ucloud4schools.de/b/ldap_signin
+  #- name: utalk4schools
+    #url: https://utalk.ucloud4schools.de/b/ldap_signin
  
 
 status-website:
