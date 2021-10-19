@@ -36,4 +36,6 @@ status-website:
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
   activeIncidents: Aktive Incidents
+  assignees:
+  - julio1501
   
