@@ -4,6 +4,8 @@ repo: uptime # The name of this repository
 user-agent: julio1501
 
 sites:
+  - name: Identity Provider
+    url: $IDP_SECRET
   - name: ucloud4schools
     url: $UCLOUD_SECRET
   - name: Plesk Webmailer
@@ -12,8 +14,7 @@ sites:
     url: $MOODLE_SECRET
   - name: utalk4schools
     url: $UTALK_SECRET
-  - name: Identity Provider
-    url: $IDP_SECRET
+  
 
  
 
