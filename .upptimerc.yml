@@ -21,7 +21,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: monitoring.ucloud4schools.de
+  cname: $CNAME
   #baseUrl: /uptime
   logoUrl: https://www.ucloud4schools.com/Portals/ucloud4schools/Images/ucloud-logo.svg
   name: Website Monitoring
