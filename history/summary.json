@@ -1,5 +1,25 @@
 [
   {
+    "name": "Identity Provider",
+    "url": "$IDP_SECRET",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "identity-provider",
+    "status": "up",
+    "uptime": "96.92%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "96.92%",
+    "time": 978,
+    "timeDay": 978,
+    "timeWeek": 978,
+    "timeMonth": 978,
+    "timeYear": 978,
+    "dailyMinutesDown": {
+      "2021-10-19": 32
+    }
+  },
+  {
     "name": "ucloud4schools",
     "url": "$UCLOUD_SECRET",
     "icon": "https://favicons.githubusercontent.com/null",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2324,
-    "timeDay": 2324,
-    "timeWeek": 2324,
-    "timeMonth": 2324,
-    "timeYear": 2324,
+    "time": 2323,
+    "timeDay": 2323,
+    "timeWeek": 2323,
+    "timeMonth": 2323,
+    "timeYear": 2323,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 899,
-    "timeWeek": 899,
-    "timeMonth": 899,
-    "timeYear": 899,
+    "time": 901,
+    "timeDay": 901,
+    "timeWeek": 901,
+    "timeMonth": 901,
+    "timeYear": 901,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1151,
-    "timeDay": 1151,
-    "timeWeek": 1151,
-    "timeMonth": 1151,
-    "timeYear": 1151,
+    "time": 1163,
+    "timeDay": 1163,
+    "timeWeek": 1163,
+    "timeMonth": 1163,
+    "timeYear": 1163,
     "dailyMinutesDown": {}
   },
   {
@@ -70,28 +90,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-20": 374,
+      "2021-10-20": 384,
       "2021-10-19": 666
-    }
-  },
-  {
-    "name": "Identity Provider",
-    "url": "$IDP_SECRET",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "identity-provider",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "96.90%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "96.90%",
-    "time": 953,
-    "timeDay": 953,
-    "timeWeek": 953,
-    "timeMonth": 953,
-    "timeYear": 953,
-    "dailyMinutesDown": {
-      "2021-10-19": 32
     }
   }
 ]
