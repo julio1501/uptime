@@ -14,10 +14,10 @@ sites:
     url: $MOODLE_SECRET
   - name: utalk4schools
     url: $UTALK_SECRET
+    
+assignees:
+  - julio1501
   
-
- 
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -38,6 +38,4 @@ status-website:
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
   activeIncidents: Aktive Incidents
-  assignees:
-  - julio1501
   
