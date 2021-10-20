@@ -14,6 +14,14 @@ sites:
     url: $MOODLE_SECRET
   - name: utalk4schools
     url: $UTALK_SECRET
+  - name: Plesk SMTPS
+    check: "tcp-ping"
+    url: $SMTP_PLESK
+    port: 465
+  - name: Plesk IMAPS
+    check: "tcp-ping"
+    url: $IMAP_PLESK
+    port: 993  
     
 assignees:
   - julio1501
@@ -21,7 +29,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: $CNAME
+  cname: monitoring.ucloud4schools.de
   #baseUrl: /uptime
   logoUrl: https://www.ucloud4schools.com/Portals/ucloud4schools/Images/ucloud-logo.svg
   name: Website Monitoring
