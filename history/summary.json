@@ -10,11 +10,11 @@
     "uptimeWeek": "98.78%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.78%",
-    "time": 996,
-    "timeDay": 922,
-    "timeWeek": 996,
-    "timeMonth": 996,
-    "timeYear": 996,
+    "time": 979,
+    "timeDay": 842,
+    "timeWeek": 979,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2021-10-19": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2248,
-    "timeDay": 1860,
-    "timeWeek": 2248,
-    "timeMonth": 2248,
-    "timeYear": 2248,
+    "time": 2253,
+    "timeDay": 2035,
+    "timeWeek": 2253,
+    "timeMonth": 2253,
+    "timeYear": 2253,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 893,
-    "timeWeek": 908,
-    "timeMonth": 908,
-    "timeYear": 908,
+    "time": 900,
+    "timeDay": 826,
+    "timeWeek": 900,
+    "timeMonth": 900,
+    "timeYear": 900,
     "dailyMinutesDown": {}
   },
   {
@@ -66,12 +66,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 1115,
-    "timeWeek": 1210,
-    "timeMonth": 1210,
-    "timeYear": 1210,
+    "time": 1119,
+    "timeDay": 1026,
+    "timeWeek": 1119,
+    "timeMonth": 1119,
+    "timeYear": 1119,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "utalk4schools",
+    "url": "$UTALK_SECRET",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "utalk4schools",
+    "status": "down",
+    "uptime": "21.45%",
+    "uptimeDay": "21.45%",
+    "uptimeWeek": "21.45%",
+    "uptimeMonth": "21.45%",
+    "uptimeYear": "21.45%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-10-21": 0
+    }
   },
   {
     "name": "Plesk SMTPS",
@@ -84,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 183,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "time": 186,
+    "timeDay": 166,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 131,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 135,
+    "timeDay": 119,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   }
 ]
