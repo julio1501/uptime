@@ -1,7 +1,7 @@
 url: $UTALK_SECRET
-status: down
-code: 404
-responseTime: 984
-lastUpdated: 2021-10-21T10:58:39.358Z
+status: up
+code: 200
+responseTime: 1001
+lastUpdated: 2021-10-21T11:18:11.909Z
 startTime: Thu Oct 21 2021 08:57:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
