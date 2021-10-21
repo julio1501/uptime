@@ -12,8 +12,8 @@ sites:
     url: $PLESK_SECRET
   - name: LMS4schools
     url: $MOODLE_SECRET
-  - name: utalk4schools
-    url: $UTALK_SECRET
+  #- name: utalk4schools
+   # url: $UTALK_SECRET
   - name: Plesk SMTPS
     check: "tcp-ping"
     url: $SMTP_PLESK
