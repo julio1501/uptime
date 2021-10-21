@@ -14,6 +14,7 @@ sites:
     url: $MOODLE_SECRET
   - name: utalk4schools
     url: $UTALK_SECRET
+    __dangerous__disable_verify_host: True
   - name: Plesk SMTPS
     check: "tcp-ping"
     url: $SMTP_PLESK
