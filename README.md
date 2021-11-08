@@ -1,4 +1,4 @@
-# [📈 Live Status](): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://monitoring.ucloud4schools.de): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
