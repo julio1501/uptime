@@ -42,9 +42,9 @@
     "url": "$PLESK_SECRET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plesk-webmailer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 723,
     "timeMonth": 867,
     "timeYear": 867,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-11": 0
+    }
   },
   {
     "name": "LMS4schools",
@@ -79,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "utalk4schools",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1226,
     "timeDay": 1542,
     "timeWeek": 1028,
