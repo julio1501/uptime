@@ -42,19 +42,19 @@
     "url": "$PLESK_SECRET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plesk-webmailer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 1043,
-    "timeWeek": 723,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 874,
+    "timeDay": 1135,
+    "timeWeek": 786,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2021-11-11": 0
+      "2021-11-11": 28
     }
   },
   {
