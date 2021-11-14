@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 922,
-    "timeDay": 691,
-    "timeWeek": 733,
-    "timeMonth": 922,
-    "timeYear": 922,
+    "time": 930,
+    "timeDay": 1266,
+    "timeWeek": 814,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2021-10-19": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2470,
-    "timeDay": 4657,
-    "timeWeek": 2601,
-    "timeMonth": 2470,
-    "timeYear": 2470,
+    "time": 2504,
+    "timeDay": 4502,
+    "timeWeek": 3109,
+    "timeMonth": 2504,
+    "timeYear": 2504,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 866,
-    "timeDay": 690,
-    "timeWeek": 774,
-    "timeMonth": 866,
-    "timeYear": 866,
+    "time": 873,
+    "timeDay": 1260,
+    "timeWeek": 857,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2021-11-11": 28
     }
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lms-4schools",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "90.52%",
     "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1132,
-    "timeDay": 904,
-    "timeWeek": 957,
-    "timeMonth": 1132,
-    "timeYear": 1132,
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 1144,
+    "timeDay": 1206,
+    "timeWeek": 1037,
+    "timeMonth": 1144,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2021-11-13": 136
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 1205,
-    "timeDay": 908,
-    "timeWeek": 1032,
-    "timeMonth": 1205,
-    "timeYear": 1205,
+    "time": 1222,
+    "timeDay": 1705,
+    "timeWeek": 1113,
+    "timeMonth": 1222,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2021-11-08": 18,
       "2021-10-21": 44
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 136,
-    "timeWeek": 152,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 182,
+    "timeDay": 253,
+    "timeWeek": 169,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 96,
-    "timeWeek": 109,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 131,
+    "timeDay": 184,
+    "timeWeek": 121,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   }
 ]
