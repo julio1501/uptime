@@ -23,6 +23,8 @@ sites:
     check: "tcp-ping"
     url: $IMAP_PLESK
     port: 993  
+  - name: DEMO
+    url: $DEMO_SECRET
     
 assignees:
   - julio1501
