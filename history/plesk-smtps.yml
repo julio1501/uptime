@@ -1,7 +1,7 @@
 url: $SMTP_PLESK
 status: up
 code: 200
-responseTime: 209
-lastUpdated: 2021-11-24T23:02:01.799Z
+responseTime: 223
+lastUpdated: 2021-11-25T23:01:50.126Z
 startTime: Wed Oct 20 2021 06:50:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
