@@ -1,7 +1,7 @@
 url: $DEMO_SECRET
-status: down
-code: 500
-responseTime: 897
-lastUpdated: 2021-12-14T12:45:37.186Z
+status: up
+code: 200
+responseTime: 906
+lastUpdated: 2021-12-14T13:33:10.849Z
 startTime: Wed Nov 24 2021 14:42:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
