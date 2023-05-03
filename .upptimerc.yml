@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 user-agent: julio1501
 
 sites:
-  - name: Identity Provider
+  - name: Keycloak IDP
     url: $IDP_SECRET
   - name: ucloud4schools
     url: $UCLOUD_SECRET
@@ -12,9 +12,6 @@ sites:
     url: $PLESK_SECRET
   - name: LMS4schools
     url: $MOODLE_SECRET
-  - name: utalk4schools
-    url: $UTALK_SECRET
-    __dangerous__insecure: true
   - name: Plesk SMTPS
     check: "tcp-ping"
     url: $SMTP_PLESK
